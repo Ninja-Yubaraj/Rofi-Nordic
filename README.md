@@ -4,7 +4,7 @@
 
 ## How to Setup:
 1. Install fonts.
-- [Iosevka Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Iosevka.zip)
+- [Iosevka Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases)
 - [Dosis](https://fonts.google.com/specimen/Dosis?query=Dosis)
 
 2. Get Rofi. (skip if you have it already)
