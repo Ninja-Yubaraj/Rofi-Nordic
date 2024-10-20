@@ -1,6 +1,6 @@
 # [ROFI] Nordic.
 
-![](https://media.discordapp.net/attachments/633729087583682644/1006226019130277928/unknown.png)
+![](https://i.imgur.com/u13BhvN.png)
 
 ## How to Setup:
 1. Install fonts.
